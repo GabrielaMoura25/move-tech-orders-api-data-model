@@ -47,6 +47,6 @@ spec:
     app: cloud-application
   type: LoadBalancer
   ports:
-  - port: 8080
+  - port: 8000
     targetPort: 8000
     protocol: TCP
